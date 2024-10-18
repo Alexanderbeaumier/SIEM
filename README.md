@@ -24,8 +24,3 @@ This project develops a Security Information and Event Management (SIEM) system 
 4. **Integrate Automated Response**: Connect Splunk with security orchestration tools to automate incident responses.
 5. **Deploy Compliance Reports**: Set up and schedule compliance reports as per regulatory requirements.
 
-## Contributing
-Contributions to enhance the SIEM capabilities or extend the range of integrable security tools are welcome. Please fork this repository and submit your pull requests for review.
-
-## License
-This project is released under the MIT License.
